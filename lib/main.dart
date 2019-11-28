@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter git will colaborador delia gracias'),
+      home: MyHomePage(title: 'Flutter git will colaborador delia gracias angelsa commit 2'),
     );
   }
 }
